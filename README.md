@@ -1,7 +1,7 @@
 # AI Controlled Flappy Birds
 AI controlled Flappy Bird using NEAT in Python
 
-<img src="github/bird.png" height = "800"> <img src="github/stats.PNG" height = "800">
+<img src="github/bird.png" height = "800"> <img src="github/stats.PNG" height = "700">
 
 Built using:
 - [Pygame](https://www.pygame.org/docs/)
