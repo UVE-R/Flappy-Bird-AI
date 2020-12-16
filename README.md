@@ -3,8 +3,8 @@ AI controlled Flappy Bird using NEAT in Python
 
 
 Built using:
--[Pygame](https://www.pygame.org/docs/)
--[NEAT](https://neat-python.readthedocs.io/en/latest/)
+- [Pygame](https://www.pygame.org/docs/)
+- [NEAT](https://neat-python.readthedocs.io/en/latest/)
 
 To play with the AI:
 -Change the Population Size in the [config](main/config-feedforward.txt)
