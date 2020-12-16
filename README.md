@@ -7,6 +7,6 @@ Built using:
 - [NEAT](https://neat-python.readthedocs.io/en/latest/)
 
 To play with the AI:
--Change the Population Size in the [config](main/config-feedforward.txt)
--Change fitness scoring
--Add other input nodes
+- Change the Population Size in the [config](main/config-feedforward.txt)
+- Change fitness scoring
+- Add other input nodes
